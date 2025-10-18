@@ -1,0 +1,22 @@
+# Transformer项目依赖
+
+# 核心依赖
+torch>=2.0.0
+numpy>=1.24.0
+
+# 数据处理
+tqdm>=4.65.0
+
+# 可视化
+matplotlib>=3.7.0
+
+# 配置文件
+pyyaml>=6.0
+
+# 可选：Jupyter支持
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# 可选：更好的命令行体验
+colorama>=0.4.6
+
